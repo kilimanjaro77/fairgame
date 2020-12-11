@@ -1,3 +1,5 @@
+ONLY DO THIS AFTER BOT's Installation (=pip3 install pipenv, pipenv install and your configuration)
+
 Since MacOS users can't execute the bot by double clicking a .bat file, I made this easy-to-modify script that basically executes the bot by just double clicking. 
 
 Instructions
